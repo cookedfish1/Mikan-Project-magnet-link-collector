@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         蜜柑计划(Mikan Project)复制全部磁链
-// @namespace
+// @namespace    https://github.com/cookedfish1/Mikan-Project-magnet-link-collector/
 // @version      0.2.5
 // @description  复制某部番的某个字幕组的全部磁链
 // @author       cookedfish
@@ -10,7 +10,6 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @license      MIT
-// @namespace 
 // @downloadURL https://update.greasyfork.org/scripts/480141/%E8%9C%9C%E6%9F%91%E8%AE%A1%E5%88%92%28Mikan%20Project%29%E5%A4%8D%E5%88%B6%E5%85%A8%E9%83%A8%E7%A3%81%E9%93%BE.user.js
 // @updateURL https://update.greasyfork.org/scripts/480141/%E8%9C%9C%E6%9F%91%E8%AE%A1%E5%88%92%28Mikan%20Project%29%E5%A4%8D%E5%88%B6%E5%85%A8%E9%83%A8%E7%A3%81%E9%93%BE.meta.js
 // ==/UserScript==
